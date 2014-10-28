@@ -1,0 +1,6 @@
+output ["order = "++show(order)++"\n"++"obj = "++show(obj1+obj2+obj3)];
+int: total = 18;
+array[1..total] of int: order;
+int: obj1;
+int: obj2;
+int: obj3;
